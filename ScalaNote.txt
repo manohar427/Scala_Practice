@@ -1,0 +1,6 @@
+1.http://scala-ide.org/
+  older versions
+http://scala-ide.org/download/prev-stable.html
+  Or download from eclipse market place.
+2.Create Scala project
+3.Create Java project and add 
